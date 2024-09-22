@@ -9,8 +9,7 @@ This project aims to predict the quality of red wines using machine learning tec
 - [Modeling Process](#modeling-process)
 - [Results](#results)
 - [Installation](#installation)
-- [Contributors](#contributors)
-- [Contact](#contact)
+
 
 ## About the Project
 This project utilizes various machine learning algorithms to predict the quality of red wines. The goal is to analyze the effects of chemical compositions and other characteristics on the quality of the wines.
