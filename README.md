@@ -7,15 +7,13 @@ This project aims to predict the quality of red wines using machine learning tec
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Modeling Process](#modeling-process)
-- [Results](#results)
-- [Installation](#installation)
 
 
 ## About the Project
 This project utilizes various machine learning algorithms to predict the quality of red wines. The goal is to analyze the effects of chemical compositions and other characteristics on the quality of the wines.
 
 ## Dataset
-The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets). It includes various features of the wines (pH, alcohol content, acidity, etc.) and their quality scores.
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). It includes various features of the wines (pH, alcohol content, acidity, etc.) and their quality scores.
 
 ## Technologies Used
 - Python
@@ -32,16 +30,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets). It incl
 4. **Hyperparameter Optimization**: Determining the best parameters using GridSearchCV.
 5. **Results Analysis**: Evaluating model performance and visualizing the results.
 
-## Results
-Summarize the best model and the results obtained at the end of the project here. For example, you can share the results of the model with the highest accuracy.
 
-## Installation
-To run the project on your local machine, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_username/project_name.git
-'''
 
 
 **Not**: This project is a practice project that I worked on individually after taking courses in data mining, machine learning, and artificial intelligence during my undergraduate computer engineering education.
