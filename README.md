@@ -44,4 +44,4 @@ To run the project on your local machine, follow these steps:
 '''
 
 
-**Not** (This project is a practice project that I worked on individually after taking courses in data mining, machine learning, and artificial intelligence during my undergraduate computer engineering education.)
+**Not**: This project is a practice project that I worked on individually after taking courses in data mining, machine learning, and artificial intelligence during my undergraduate computer engineering education.
