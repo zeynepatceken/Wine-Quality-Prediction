@@ -41,4 +41,7 @@ To run the project on your local machine, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/project_name.git
+'''
 
+
+**Not** (This project is a practice project that I worked on individually after taking courses in data mining, machine learning, and artificial intelligence during my undergraduate computer engineering education.)
