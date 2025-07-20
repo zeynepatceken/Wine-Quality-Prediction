@@ -33,4 +33,4 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/uciml/red
 
 
 
-**Not**: This project is a practice project that I worked on individually after taking courses in data mining, machine learning, and artificial intelligence during my undergraduate computer engineering education.
+
